@@ -1,7 +1,7 @@
 ## Prazer sou o Ryan, seja bem-vindo ao meu github!
 <div align="center">
   <a href="https://github.com/yRyan-Silva">
-  <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRyan-Silva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="115" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRyan-Silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
