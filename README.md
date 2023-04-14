@@ -1,18 +1,19 @@
-## Prazer sou o Ryan, seja bem-vindo ao meu github!
-<div align="center">
-  <a href="https://github.com/yRyan-Silva">
-  <img height="160" width="450" src="https://github-readme-stats.vercel.app/api?username=yRyan-Silva&layout=compact&langs_count=7&theme=dracula"/>
-  <!--<img height="160" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRyan-Silva&layout=compact&langs_count=7&theme=dracula"/>-->
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-</div>
-  
-  ##
+<h1 align="center"><strong><em>Ryan Silva</em></strong>
+	<br>
+	<br>
+	<img src="https://img.shields.io/badge/-Crowley%235826-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
+  <!--<a href="https://www.linkedin.com/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/jos%C3%A9%20Arnaldo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+	<br>
+</h1>
+<h1 align="center">
+	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+	<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+	<br>
+	<img alt="MySQL" src="https://img.shields.io/badge/mysql-4c4c4c.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+	<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-4287f5?style=for-the-badge&logo=sqlite&logoColor=white"/>
+	<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+	<br>
+	<img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>
+	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor%23ffffff"/>
+	<br>
+</h1>
