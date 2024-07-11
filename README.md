@@ -1,7 +1,7 @@
 <h1 align="center"><strong><em>Ryan Silva</em></strong>
 	<br>
 	<br>
-	<img src="https://img.shields.io/badge/-Crowley%235826-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
+	<img src="https://img.shields.io/badge/-ylupan-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
   <!--<a href="https://www.linkedin.com/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/jos%C3%A9%20Arnaldo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
 	<br>
 </h1>
